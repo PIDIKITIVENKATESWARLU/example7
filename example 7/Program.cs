@@ -32,6 +32,7 @@ namespace example_7
             Console.WriteLine("final price of the shirts are {0}",less);
             Console.WriteLine(flag);
             Console.ReadLine();
+            Console.WriteLine();
             Console.WriteLine("venky");
 
 
