@@ -38,6 +38,7 @@ namespace example_7
             Console.WriteLine("GIthub to visual studio");
             Console.ReadLine();
             Console.WriteLine();
+            Console.ReadLine();
 
 
 
