@@ -34,6 +34,7 @@ namespace example_7
             Console.ReadLine();
             Console.WriteLine();
             Console.WriteLine("venky");
+            Console.ReadLine();
 
 
 
